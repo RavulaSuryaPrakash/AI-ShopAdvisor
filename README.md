@@ -326,10 +326,5 @@ Note: When DEBUG=False, endpoints require token authentication (use Django Admin
 
 ---
 
-## 📧 Contact  
-
-- Maintainer: Your Name (your.email@example.com)  
-- Slack Channel: #ai-shopadvisor on your organization’s Slack  
-- GitHub Issues: https://github.com/<your-org>/AI-ShopAdvisor/issues  
 
 Thank you for using AI-ShopAdvisor! We look forward to your feedback and contributions.
